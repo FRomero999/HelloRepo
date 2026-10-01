@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/brand/assets/openshell-banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="docs/brand/assets/openshell-banner-light.png">
+  <img alt="OpenShell" src="docs/brand/assets/openshell-banner-light.png" width="430">
+</picture>
+
 # Hello World 2027
 Proyecto de introducción al curso 2027
 
