@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="docs/brand/assets/openshell-banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="docs/brand/assets/openshell-banner-light.png">
-  <img alt="OpenShell" src="docs/brand/assets/openshell-banner-light.png" width="430">
+  <source media="(prefers-color-scheme: dark)" srcset="https://picsum.photos/200/500">
+  <source media="(prefers-color-scheme: light)" srcset="https://picsum.photos/200/500">
+  <img alt="OpenShell" src="https://picsum.photos/200/500" width="430">
 </picture>
 
 # Hello World 2027
